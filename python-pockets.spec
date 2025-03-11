@@ -9,7 +9,7 @@ Summary:	A collection of helpful Python tools
 Summary(pl.UTF-8):	Zbiór przydatnych narzędzi dla Pythona
 Name:		python-pockets
 Version:	0.9.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pockets/
